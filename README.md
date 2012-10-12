@@ -22,7 +22,7 @@ If you use Homebrew, it will automatically take care of dependencies.
 
 [**Tesseract**](http://code.google.com/p/tesseract-ocr/)
 
-[**OpenCV**](http://opencv.willowgarage.com/)
+[**OpenCV**](http://opencv.org/)
 
 [**Boost C++ Libraries**](http://www.boost.org/)
 
