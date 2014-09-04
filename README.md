@@ -1,6 +1,6 @@
 read_text
 =========
-A command line tool for speaking text in an image. Developed and tested on OS X but should work anywhere after minor changes. Development of this tool has ceased and future work with text recognition will be in [dtcristo/virtucane](https://github.com/dtcristo/virtucane), an assistive app for the visually impaired.
+A command line tool for speaking text in an image. Developed and tested on OS X but should work anywhere after minor changes. Development of this tool has ceased and future work with text recognition will be in [ruins/virtucane](https://github.com/ruins/virtucane), an assistive app for the visually impaired.
 
 This project is a fork of [Menglong Zhu](http://www.seas.upenn.edu/~menglong/)'s ROS package [read_text](http://www.ros.org/wiki/read_text). I have made modifications for my own needs.
 
